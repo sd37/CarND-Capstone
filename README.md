@@ -17,6 +17,10 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
   * Use this option to install the SDK on a workstation that already has ROS installed: [One Line SDK Install (binary)](https://bitbucket.org/DataspeedInc/dbw_mkz_ros/src/81e63fcc335d7b64139d7482017d6a97b405e250/ROS_SETUP.md?fileviewer=file-view-default)
 * Download the [Udacity Simulator](https://github.com/udacity/CarND-Capstone/releases/tag/v1.2).
 
+### Team
+Name: last_ride
+Member: spandan : spandan_dutta@alumni.brown.edu
+
 ### Docker Installation
 [Install Docker](https://docs.docker.com/engine/installation/)
 
